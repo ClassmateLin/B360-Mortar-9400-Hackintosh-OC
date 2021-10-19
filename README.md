@@ -18,7 +18,7 @@
 | 处理器        | i5 9400                                         |
 | 显卡          | UHD 630                      |
 | 显示器        | 飞利浦                                            |
-| 内存          | 铭瑄2400HZ 8G两根                                 |
+| 内存          | 铭瑄2666HZ 4G两根                                 |
 | 有线网卡      | 英特尔 Ethernet Connection I219-V / 微星          |
 | 声卡          | 瑞昱 ALC892 @ 英特尔 High Definition Audio 控制器 |
 
