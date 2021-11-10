@@ -3,8 +3,8 @@
 **微星B360M迫击炮+i5 9400 opencore配置**。
 
 ### 支持版本
-
-- 11.0.x big sur
+- 12.x Monterey
+- 11.x big sur
 - 10.15.x
 - 10.14.x
 
